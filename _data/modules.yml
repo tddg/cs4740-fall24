@@ -1,0 +1,124 @@
+# Format of this document:
+# Each top-level key is an item that is referneced by any section schedule's "content" array
+# Each key has a "name" attribute (rendered on the calendar), a "page" attribute (which contains a link to the lesson) and an optional "type" attribute, which is a key into the _data/config.yml "types" dictionary.
+fMonday:
+  name: No class
+  type: holiday
+1a:
+  name: Lec1-Introduction
+  page: /lectures/lec1-intro
+2a:
+  name: Lec2-Go tutorial
+  page: /lectures/lec2-go-tutorial
+3a:
+  name: Lec3-Distributed systems fundamentals
+  page: /lectures/lec3-fundamentals
+4a:
+  name: Lec4-MapReduce
+  page: /lectures/lec4-mapreduce
+5a:
+  name: Lec5-RPC
+  page: /lectures/lec5-rpc
+6a:
+  name: Lec6-RPC in Go and Lab 1 walkthru
+  page: /lectures/lec6-lab1-walkthru
+7a:
+  name: Lec7-Google File System
+  page: /lectures/lec7-gfs
+8a:
+  name: Lec8a-Time and clocks I
+  page: /lectures/lec8-time-clocks
+8b:
+  name: Lec8b-Time and clocks II
+  page: /lectures/lec8-time-clocks
+9a:
+  name: Lec9-2PC, safety, liveness
+  page: /lectures/lec9-2pc
+10a:
+  name: Lec10-Paxos
+  page: /lectures/lec10-paxos
+11a:
+  name: Lec11a-Raft I
+  page: /lectures/lec11-raft
+11b:
+  name: Lec11b-Raft II and Lab 3a walkthru
+  page: /lectures/lec11-raft
+fallReadingDay:
+  name: Fall Reading Day (no class)
+  page: holiday
+midtermReview:
+  name: Midterm review
+  page: /lectures/midterm-review
+midterm:
+  name: Midterm (**3pm - 4:45pm**)
+12a:
+  name: Lec12a-Virtualization (VMs) and Lab 3b walkthru
+  page: /lectures/lec12-virtualization
+12b:
+  name: Lec12b-Virtualization (containers)
+  page: /lectures/lec12-virtualization
+13a:
+  name: Lec13-Cloud computing basics
+  page: /lectures/lec13-cloud-computing-concepts
+14a:
+  name: Lec14a-Serverless computing
+  page: /lectures/lec14-serverless-computing
+14b:
+  name: Lec14b-Serverless data analytics and Lab4 walkthru
+  page: /lectures/lec14-serverless-computing
+15a:
+  name: Lec15-Strong consistency
+  page: /lectures/lec15-strong-consistency
+16a:
+  name: Lec16-CAP and causal consistency
+  page: /lectures/lec16-cap-causal-consistency
+17a:
+  name: Lec17a-Amazon Dynamo I
+  page: /lectures/lec17-dynamo
+17b:
+  name: Lec17b-Amazon Dynamo II
+  page: /lectures/lec17-dynamo
+18a:
+  name: Lec18-Serverless function store
+  page: /lectures/lec18-serverless-store
+thanksGiving:
+  name: Thanksgiving recess (no class)
+  type: holiday
+finalReview:
+  name: Final review
+  page: /lectures/final-review
+19a:
+  name: Lec19a-Spark I
+  page: /lectures/lec19-spark
+19b:
+  name: Lec19a-Spark II
+  page: /lectures/lec19-spark
+lab0:
+  name: Lab 0
+  type: deadline
+  page: /labs/lab0
+lab1:
+  name: Lab 1
+  type: deadline
+  page: /labs/lab1
+lab2:
+  name: Lab 2
+  type: deadline
+  page: /labs/lab2
+lab3a:
+  name: Lab 3a
+  type: deadline
+  page: /Labs/lab3a
+lab3b:
+  name: Lab 3b
+  type: deadline
+  page: /Labs/lab3b
+lab4:
+  name: Lab 4
+  type: deadline
+  page: /Labs/lab4
+readingDay:
+  name: Reading days
+  type: holiday
+workOnProj:
+  name: Work on project (class does not meet)
