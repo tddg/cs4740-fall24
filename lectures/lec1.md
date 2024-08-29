@@ -19,5 +19,12 @@ In this lecture, you will learn:
 * Introduction: [slides pdf](/cs4740-fall24/assets/docs/lec1-intro.pdf)
 
 
+### Recordings
+
+* **Lec1:** [video](https://edstem.org/us/courses/65103/discussion/5192043)
+
+
 ### Resources
 * [Class Syllabus](/cs4740-fall24/info)
+
+
