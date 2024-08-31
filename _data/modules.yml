@@ -50,7 +50,7 @@ midtermReview:
   name: Midterm review
   page: /lectures/midterm-review
 midterm:
-  name: Midterm (**3pm - 4:45pm**)
+  name: Midterm (<strong>time TBD</strong>)
 12a:
   name: Lec12a-Virtualization (VMs) and Lab 3b walkthru
   page: /lectures/lec12-virtualization
@@ -87,6 +87,8 @@ thanksGiving:
 finalReview:
   name: Final review
   page: /lectures/final-review
+finalExam:
+  name: Final exam (<strong>time TBD</strong>)
 19a:
   name: Lec19a-Spark I
   page: /lectures/lec19-spark
