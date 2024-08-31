@@ -45,7 +45,7 @@ fMonday:
   page: /lectures/lec11-raft
 fallReadingDay:
   name: Fall Reading Day (no class)
-  page: holiday
+  type: holiday
 midtermReview:
   name: Midterm review
   page: /lectures/midterm-review

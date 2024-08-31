@@ -65,7 +65,6 @@ weeks:
     Mon:
       date: 2024/10/14
       content: fallReadingDay
-      type: holiday
     Wed:
       date: 2024/10/16
       content: midtermReview
