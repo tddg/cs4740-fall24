@@ -142,8 +142,8 @@ after 3 days, no late submissions will be accepted, no exceptions.
 ### Submitting on Canvas
 
 Please also submit your tar file on Canvas. The submission should
-include the two Go source files, `g1.go` and `q2.go`, for the GTAs'
-record.
+include the two Go source files, `g1.go` and `q2.go`, and this is
+justfor the GTAs' record.
 
 > **NOTE:** We will use the timestamp of your last Autolab submission
 > for late penalty.
