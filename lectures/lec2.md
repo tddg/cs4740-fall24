@@ -8,9 +8,9 @@ nav_order: 2
 ---
 
 ### Learning objectives:
-In this lecture, you will learn:
+In this lecture, you will:
 
-* about basics about Go programming.
+* learn about basics about Go programming.
 * get familiar with goroutines and channels.
 
 
