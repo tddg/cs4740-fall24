@@ -16,7 +16,7 @@ In this lecture, you will learn:
 
 ### Lecture slides
 
-* Go tutorial: [slides pdf](/cs4740-fall24/assets/docs/lec2-go-basics.pdf),
+* Go tutorial: [slides pdf](/cs4740-fall24/assets/docs/lec2-go-tutorial.pdf),
    [handout1](/cs4740-fall24/assets/docs/go_handout.docx), [handout2](/cs4740-fall24/assets/docs/go_handout2.docx)
 
 
