@@ -110,9 +110,7 @@ only if your code successfully passes the test.
 ### Submitting on Autolab
 
 You must turn in your lab assignment using
-[Autolab](http://autolab-cs4740.com).  Read this
-[document](https://docs.google.com/document/d/1bwWx8p4_vSaNwVPzImRVKOXuj58qVMWWYu89Ejigs4A/edit?usp=sharing) 
-for instructions on how to sign-up for Autolab.  If you did not
+[Autolab](http://autolab-cs4740.com).   If you did not
 receive a confirmation email from Autolab to set a password, enter
 your @virginia.edu email, and click "Forgot your
 password" to get a new password. 
