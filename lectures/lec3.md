@@ -17,7 +17,7 @@ In this lecture, you will:
 
 ### Lecture slides
 
-* Concurrency and parallelism: [slides pdf](/cs4740-fall24/assets/docs/lec3-concurrency-parallelism.pdf)
+* Concurrency and parallelism: [slides pdf](/cs4740-fall24/assets/docs/lec3-parallelism-concurrency.pdf)
 
 
 ### Readings
