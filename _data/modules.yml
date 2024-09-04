@@ -11,8 +11,8 @@ fMonday:
   name: Lec2-Go tutorial
   page: /lectures/lec2-go-tutorial
 3a:
-  name: Lec3-Distributed systems fundamentals
-  page: /lectures/lec3-fundamentals
+  name: Lec3-Concurrency and parallelism
+  page: /lectures/lec3-concurrency-parallelism
 4a:
   name: Lec4-MapReduce
   page: /lectures/lec4-mapreduce
