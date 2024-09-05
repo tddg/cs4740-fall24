@@ -12,7 +12,7 @@ In this lecture, you will:
 
 * recap on the abstraction of process vs. thread;
 * learn the concurrency mechanism in Go (`go`, `chan`, `select`);
-* know the difference between concurrency and parallelism..
+* know the difference between concurrency and parallelism.
 
 
 ### Lecture slides
