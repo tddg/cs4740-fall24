@@ -12,7 +12,7 @@ fMonday:
   page: /lectures/lec2-go-tutorial
 3a:
   name: Lec3-Concurrency and parallelism
-  page: /lectures/lec3-concurrency-parallelism
+  page: /lectures/lec3-parallelism-concurrency
 4a:
   name: Lec4-MapReduce
   page: /lectures/lec4-mapreduce
