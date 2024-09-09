@@ -42,7 +42,7 @@ building distributed applications.
 * Instructor: [Yue Cheng](https://tddg.github.io)
 * Meeting time: MW 3:30 pm - 4:45pm
 * Location: Olsson Hall 005
-	* ~~**IMPORTANT:** Initial classes will be conducted online as the instructor is attending an international conference ([VLDB'24](https://vldb.org/2024/)). Students have two options to join the class via: a) classroom streaming (Olsson Hall 005) or b) online Zoom meeting (link posted on Canvas). **Note** the teaching will transition to in-person classes in **Week 3** once the instructor is back on campus. ~~
+	* ~~Initial classes will be conducted online as the instructor is attending an international conference ([VLDB'24](https://vldb.org/2024/)). Students have two options to join the class via: a) classroom streaming (Olsson Hall 005) or b) online Zoom meeting (link posted on Canvas). **Note** the teaching will transition to in-person classes in **Week 3** once the instructor is back on campus.~~
 
 
 ## High-level Topics (tentative)
