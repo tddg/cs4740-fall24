@@ -10,6 +10,8 @@ due_date: "Wednesday Sep 11, 11:59pm ET"
 
 # Introduction to Go
 
+## Resources
+
 Lab 0 [FAQ](https://edstem.org/us/courses/65103/discussion/5253214).
 
 
