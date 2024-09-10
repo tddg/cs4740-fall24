@@ -57,8 +57,8 @@ working directory, and move the `src` directory into `cs4740-fall24-labs`.
 src/
 ```
 
-`src/` further contains two sub-directories, `main/` and
-`mapreduce/`.  You will be working on `src/` for this lab assignment.
+`src/` contains two sub-directories, `main/` and `mapreduce/`.  You
+will be working on `src/` for this lab assignment.
 
 
 
