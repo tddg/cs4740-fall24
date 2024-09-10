@@ -542,8 +542,8 @@ of your tar file:
 ```sh
 % tar -tvf lab1-handin.tar
 -rw-r--r--  0 yue    staff    5781 Aug 30 16:38 common_map.go
--rw-r--r--  0 yue    staff    2911 Aug 30 16:38 common_reduce.go
--rw-r--r--  0 yue    staff    2911 Aug 30 16:38 schedule.go
+-rw-r--r--  0 yue    staff    2900 Aug 30 16:38 common_reduce.go
+-rw-r--r--  0 yue    staff    2547 Aug 30 16:38 schedule.go
 -rw-r--r--  0 yue    staff    2911 Aug 30 16:38 wc.go
 ```
 
@@ -555,10 +555,10 @@ of your tar file:
 % tar -cvf lab1-handin.tar common_map.go common_reduce.go schedule.go wc.go ii.go
 % tar -tvf lab1-handin.tar
 -rw-r--r--  0 yue    staff    5781 Aug 30 16:38 common_map.go
--rw-r--r--  0 yue    staff    2911 Aug 30 16:38 common_reduce.go
--rw-r--r--  0 yue    staff    2911 Aug 30 16:38 schedule.go
+-rw-r--r--  0 yue    staff    2900 Aug 30 16:38 common_reduce.go
+-rw-r--r--  0 yue    staff    2547 Aug 30 16:38 schedule.go
 -rw-r--r--  0 yue    staff    2911 Aug 30 16:38 wc.go
--rw-r--r--  0 yue    staff    2911 Aug 30 16:38 ii.go
+-rw-r--r--  0 yue    staff    3124 Aug 30 16:38 ii.go
 ```
 
 
