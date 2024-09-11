@@ -343,8 +343,8 @@ $ go test -run TestBasic mapreduce/...
 > the Go RPC package. 
 > * **Hint:** `schedule()` should send RPCs to the workers in parallel so
 > that the workers can work on tasks concurrently. You will find the
-> go statement useful for this purpose; see [Concurrency in
-> Go](https://golang.org/doc/effective_go#concurrency). 
+> `go` keyword useful for this purpose; see [Concurrency in
+> Go](https://golang.org/doc/effective_go#concurrency) and [Lecture 3](/cs4740-fall24/lectures/lec3-parallelism-concurrency). 
 > * **Hint:** `schedule()` must wait for a worker to finish before it
 > can give it another task. You may find Go's channels useful. You
 > may find [sync.WaitGroup](https://golang.org/pkg/sync/#WaitGroup) useful. 

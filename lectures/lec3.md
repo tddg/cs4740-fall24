@@ -23,7 +23,7 @@ In this lecture, you will:
 ### Readings
 
 * Abstractions: [Processes](https://pages.cs.wisc.edu/~remzi/OSTEP/cpu-intro.pdf), [Thread](https://pages.cs.wisc.edu/~remzi/OSTEP/threads-intro.pdf) 
-* Go concurrency: [Scheduling in Go](https://www.ardanlabs.com/blog/2018/08/scheduling-in-go-part2.html), [Go's work-stealing scheduler](https://rakyll.org/scheduler/)
+* Go concurrency: [Go concurrency](https://go.dev/doc/effective_go#concurrency), [Scheduling in Go](https://www.ardanlabs.com/blog/2018/08/scheduling-in-go-part2.html), [Go's work-stealing scheduler](https://rakyll.org/scheduler/)
 
 
 
