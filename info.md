@@ -97,7 +97,7 @@ That is, if an assignment is late, we’ll grade it and scale the score by 0.9 i
 
 ### Quizzes
 
-There will be a short quiz due at the end of most Wednesdays. Make sure you know the rules regarding what is allowed and what is not.
+There will be a short quiz due at the end of some lectures. Make sure you know the rules regarding what is allowed and what is not.
 
 #### Allowed
 
