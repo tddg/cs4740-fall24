@@ -411,6 +411,8 @@ $ go test -run Failure mapreduce/...
 
 ## Part V: Inverted index generation (optional challenge)
 
+> **Note:** This part is for extra credit!
+
 Word count is a classical example of a MapReduce application, but
 it is not an application that many large consumers of MapReduce use.
 It is simply not very often you need to count the words in a really
