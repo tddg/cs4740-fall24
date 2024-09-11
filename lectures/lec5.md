@@ -11,7 +11,7 @@ nav_order: 5
 In this lecture, you will learn:
 
 * the motivation of remote procedure call (RPC)
-* the process of RPC
+* the process of a remote procedure call
 * the issues of RPC designs
 
 
