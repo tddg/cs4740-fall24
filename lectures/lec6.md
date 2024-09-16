@@ -16,7 +16,7 @@ In this lecture, you will learn:
 
 ### Lecture slides
 
-* RPC in Go: [slides pdf](/cs4740-fall24/assets/docs/lec6-rpc-go.pdf)
+* RPC in Go: [slides pdf](/cs4740-fall24/assets/docs/lec6-go-rpc.pdf)
 
 
 ### Readings
