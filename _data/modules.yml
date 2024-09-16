@@ -21,7 +21,7 @@ fMonday:
   page: /lectures/lec5-rpc
 6a:
   name: Lec6-RPC in Go and Lab 1 walkthru
-  page: /lectures/lec6-lab1-walkthru
+  page: /lectures/lec6-rpc-go
 7a:
   name: Lec7-Google File System
   page: /lectures/lec7-gfs
