@@ -1,6 +1,6 @@
 ---
 layout: module
-title: "Lecture 6: RPC in Go"
+title: "Lecture 6: RPC in Go and Lab 1 tutorial"
 permalink: /lectures/lec6-rpc-go
 parent: Lectures
 nav_order: 6
