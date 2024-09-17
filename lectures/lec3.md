@@ -26,5 +26,7 @@ In this lecture, you will:
 * Go concurrency: [Go concurrency](https://go.dev/doc/effective_go#concurrency), [Scheduling in Go](https://www.ardanlabs.com/blog/2018/08/scheduling-in-go-part2.html), [Go's work-stealing scheduler](https://rakyll.org/scheduler/)
 
 
+### Recording
 
+* Lec3: [video](https://edstem.org/us/courses/65103/discussion/5215407)
 

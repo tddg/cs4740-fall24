@@ -25,4 +25,8 @@ In this lecture, you will learn:
 * [MapReduce paper](https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf) 
 
 
+### Recoding
+
+* Lec4: [video](https://edstem.org/us/courses/65103/discussion/5246891)
+
 

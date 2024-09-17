@@ -16,11 +16,12 @@ In this lecture, you will learn:
 
 ### Lecture slides
 
-* RPC in Go: [slides pdf](/cs4740-fall24/assets/docs/lec6-go-rpc.pdf)
+* RPC in Go: [slides pdf](/cs4740-fall24/assets/docs/lec6-go-rpc.pdf), 
+             [Lab 1 notes](/cs4740-fall24/assets/docs/lab1_arch.pdf)
 
 
-### Readings
+### Recording
 
-
+* Lec6: [video](https://edstem.org/us/courses/65103/discussion/5292400)
 
 

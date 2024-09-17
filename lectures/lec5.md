@@ -25,4 +25,8 @@ In this lecture, you will learn:
 * van Steen §4.1-4.2; §8.3 (optional) 
 
 
+### Recoding
+
+* Lec5: [video](https://edstem.org/us/courses/65103/discussion/5292386)
+
 

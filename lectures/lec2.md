@@ -20,6 +20,11 @@ In this lecture, you will:
    [handout1](/cs4740-fall24/assets/docs/go_handout.docx), [handout2](/cs4740-fall24/assets/docs/go_handout2.docx)
 
 
+### Recording
+
+* Lec2: [video](https://edstem.org/us/courses/65103/discussion/5246882)
+
+
 
 ### Resources
 * [A tour of the Go programming language](https://go.dev/tour/welcome/1)
