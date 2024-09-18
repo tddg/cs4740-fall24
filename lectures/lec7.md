@@ -25,5 +25,7 @@ In this lecture, you will learn:
 * [GFS paper](https://static.googleusercontent.com/media/research.google.com/en//archive/gfs-sosp2003.pdf) 
 
 
+### Recording
 
+* Lec7-i: [video](https://edstem.org/us/courses/65103/discussion/5306604)
 
