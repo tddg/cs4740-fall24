@@ -3,7 +3,7 @@ layout: page
 title: Reading List
 description: >-
     A feed containing all of the required and optional papers to read.
-nav_order: 8
+nav_order: 6
 ---
 
 ## Reading List
