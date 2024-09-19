@@ -166,6 +166,7 @@ implementation that you have now fixed, run:
 
 ```sh
 $ cd cs4740-fall24-labs
+$ export "GO111MODULE=off" # Must do this to disable Go's go.mod file.
 $ export GOPATH="$PWD" # Must do this to tell go where the lab top-level is.
 $ cd src/mapreduce
 $ go test -run Sequential mapreduce/...
