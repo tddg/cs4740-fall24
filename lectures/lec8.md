@@ -1,6 +1,6 @@
 ---
 layout: module
-title: "Lecture 8: Time and clocks"
+title: "Lecture 8: Time and Clocks"
 permalink: /lectures/lec8-time-clocks
 parent: Lectures
 nav_order: 8
