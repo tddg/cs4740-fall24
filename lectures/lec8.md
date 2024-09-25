@@ -29,5 +29,5 @@ In this lecture, you will learn:
 
 ### Quiz
 
-* [Quiz 1](https://forms.gle/YxLyxmUEJoncADGf7)
+* [Quiz 1](https://shorturl.at/KYffF)
 
