@@ -29,5 +29,5 @@ In this lecture, you will learn:
 
 ### Quiz
 
-* [Quiz 1](https://docs.google.com/forms/d/e/1FAIpQLSeuImt6qEfPD02sN9tXz-vPIZG7UbD2PAajXaa2wNXWFqClFQ/viewform?usp=sf_link)
+* [Quiz 1](https://forms.gle/YxLyxmUEJoncADGf7)
 
