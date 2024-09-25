@@ -27,7 +27,3 @@ In this lecture, you will learn:
 * van Steen §6.1-6.2
 
 
-### Quiz
-
-* [Quiz 1](https://shorturl.at/KYffF)
-
