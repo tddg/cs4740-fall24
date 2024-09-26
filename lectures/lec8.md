@@ -29,4 +29,4 @@ In this lecture, you will learn:
 
 ### Quiz
 
-<a href="https://forms.gle/JoK1yWFxfwZ5wfq16">here</a>
+<a href="https://forms.gle/JoK1yWFxfwZ5wfq16">Quiz 1</a>
