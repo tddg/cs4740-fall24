@@ -33,10 +33,10 @@ fMonday:
   page: /lectures/lec8-time-clocks
 9a:
   name: Lec9a-Consistency I
-  page: /lectures/lec9-consistency
+  page: /lectures/lec9-consistency-linearizability
 9b:
   name: Lec9b-Consistency II
-  page: /lectures/lec9-consistency
+  page: /lectures/lec9-consistency-linearizability
 10a:
   name: Lec9-2PC, safety, liveness
   page: /lectures/lec9-2pc
