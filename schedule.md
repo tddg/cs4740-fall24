@@ -45,11 +45,11 @@ weeks:
     Wed:
       date: 2024/09/25
       content: 8b
-      note: "[Lab 2](/cs4740-fall24/labs/lab2) out"
   '6':
     Mon:
       date: 2024/09/30
       content: 9a
+      note: "[Lab 2](/cs4740-fall24/labs/lab2) out"
     Wed:
       date: 2024/10/02
       content: 10a

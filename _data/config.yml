@@ -5,11 +5,15 @@ deadlines:
       content: lab0
   '5':
     Wed:
-      date: 2024/09/25 23:59pm
+      date: ~~2024/09/25 23:59pm~~
       content: lab1
-  '7':
-    Wed:
-      date: 2024/10/09 23:59pm
+  '5':
+    Fri:
+      date: 2024/09/27 23:59pm
+      content: lab1
+  '8':
+    Mon:
+      date: 2024/10/14 23:59pm
       content: lab2
   '9':
     Wed:

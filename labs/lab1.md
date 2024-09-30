@@ -4,7 +4,7 @@ title: "Lab 1"
 permalink: /labs/lab1
 parent: Labs
 nav_order: 2
-due_date: "Wednesday Sep 25, 11:59pm ET"
+due_date: "Friday Sep 27, 11:59pm ET"
 ---
 
 
