@@ -52,14 +52,14 @@ weeks:
       note: "[Lab 2](/cs4740-fall24/labs/lab2) out"
     Wed:
       date: 2024/10/02
-      content: 10a
+      content: 9b
   '7':
     Mon:
       date: 2024/10/07
-      content: 11a
+      content: 10a
     Wed:
       date: 2024/10/09
-      content: 11b
+      content: 11a
       note: "[Lab 3a](/cs4740-fall24/labs/lab3a) out"
   '8':
     Mon:
@@ -74,22 +74,22 @@ weeks:
       content: midterm
     Wed:
       date: 2024/10/23
-      content: 12a
+      content: 11b
       note: "[Lab 3b](/cs4740-fall24/labs/lab3b) out"
   '10':
     Mon:
       date: 2024/10/28
-      content: 12b
+      content: 12a
     Wed:
       date: 2024/10/30
-      content: 13a
+      content: 12b
   '11':
     Mon:
       date: 2024/11/04
-      content: 14a
+      content: 13a
     Wed:
       date: 2024/11/06
-      content: 14b
+      content: 14a
       note: "[Lab 4](/cs4740-fall24/labs/lab4) out"
   '12':
     Mon:
@@ -97,18 +97,18 @@ weeks:
       content: 15a
     Wed:
       date: 2024/11/13
-      content: 16a
+      content: 15b
   '13':
     Mon:
       date: 2024/11/18
-      content: 17a
+      content: 16a
     Wed:
       date: 2024/11/20
-      content: 17b
+      content: 16b
   '14':
     Mon:
       date: 2024/11/25
-      content: 18a
+      content: 17a
     Wed:
       date: 2024/11/27
       content: thanksGiving

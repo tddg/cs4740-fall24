@@ -32,15 +32,21 @@ fMonday:
   name: Lec8b-Time and clocks II
   page: /lectures/lec8-time-clocks
 9a:
+  name: Lec9a-Consistency I
+  page: /lectures/lec9-consistency
+9b:
+  name: Lec9b-Consistency II
+  page: /lectures/lec9-consistency
+10a:
   name: Lec9-2PC, safety, liveness
   page: /lectures/lec9-2pc
-10a:
+11a:
   name: Lec10-Paxos
   page: /lectures/lec10-paxos
-11a:
+12a:
   name: Lec11a-Raft I
   page: /lectures/lec11-raft
-11b:
+12b:
   name: Lec11b-Raft II and Lab 3a walkthru
   page: /lectures/lec11-raft
 fallReadingDay:
@@ -51,34 +57,28 @@ midtermReview:
   page: /lectures/midterm-review
 midterm:
   name: Midterm (<strong>time TBD</strong>)
-12a:
+13a:
   name: Lec12a-Virtualization (VMs) and Lab 3b walkthru
   page: /lectures/lec12-virtualization
-12b:
+13b:
   name: Lec12b-Virtualization (containers)
   page: /lectures/lec12-virtualization
-13a:
+14a:
   name: Lec13-Cloud computing basics
   page: /lectures/lec13-cloud-computing-concepts
-14a:
+15a:
   name: Lec14a-Serverless computing
   page: /lectures/lec14-serverless-computing
-14b:
+15b:
   name: Lec14b-Serverless data analytics and Lab4 walkthru
   page: /lectures/lec14-serverless-computing
-15a:
-  name: Lec15-Strong consistency
-  page: /lectures/lec15-strong-consistency
 16a:
-  name: Lec16-CAP and causal consistency
-  page: /lectures/lec16-cap-causal-consistency
-17a:
   name: Lec17a-Amazon Dynamo I
   page: /lectures/lec17-dynamo
-17b:
+16b:
   name: Lec17b-Amazon Dynamo II
   page: /lectures/lec17-dynamo
-18a:
+17a:
   name: Lec18-Serverless function store
   page: /lectures/lec18-serverless-store
 thanksGiving:
