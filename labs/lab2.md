@@ -72,8 +72,9 @@ You should copy all subdirs from the `src/` dir to an existing dir
 % cp -r src/* cs4740-fall24-labs/src/
 % cd cs4740-fall24-labs/src/
 % ls
-TBD
+kvsrv  labgob  labrpc  models  porcupine
 ```
+
 
 Now, `src/` should contain seven dirs, out of which `kvsrv/`,
 `labgob/`, `labrpc/`, `models/`, and `porcupine/` are for Lab 2.
@@ -145,6 +146,76 @@ ok      6.5840/kvsrv    41.000s
 The numbers after each `Passed` are real time in seconds, number of
 RPCs sent (including client RPCs), and number of key/value operations
 executed (`Clerk` `Get`/`Put`/`Append` calls). 
+
+
+
+## Point distribution
+
+For this lab, each test is worth 5 points. If your code passes all
+tests, you will get 45 points.  Your code will be tested on Autolab.
+No marks will be awarded if your code does not pass the test. You
+will receive full marks only if your code successfully passes the
+test.
+
+
+## What (and how) to hand in
+
+
+### Submitting on Autolab
+
+You must turn in your lab assignment using
+[Autolab](http://autolab-cs4740.com/).  Read this
+[document](https://docs.google.com/document/d/1G_fpExlF6k4LtUF2reqAm8WI73wUSlvt0iX0ZrXZGBA/edit#heading=h.qkqs78p5a2np) 
+for instructions on how to sign-up for Autolab. If you did not
+receive a confirmation email from Autolab to set a password, enter
+your @gmu.edu (**NOT** masonlive) email, and click "Forgot your
+password" to get a new password. You may skip the Autolab signup 
+step if you have done this in lab0.
+
+Create a **tar** file of only the following Go source files,
+`client.go`, `common.go`, and `server.go`.  Please, .tar only, not
+.tgz, nor .7z/.zip. Name your tar file as `lab2-handin.tar`. 
+
+
+```sh
+% tar -cvf lab2-handin.tar client.go common.go server.go
+```
+
+**Please do not put any directory in your tar file
+as our autograder is scripted to directly fetch src files not
+directories.** Use the following command to examine the content 
+of your tar file:
+
+```sh
+% tar -tvf lab2-handin.tar
+```
+
+When you upload your lab, Autolab will automatically untar it
+and test it. You should verify that the result that Autolab generates
+is what you expect. Test your code locally before submitting it to
+Autolab.  Your code is tested in a cloud Linux VM. Assignments that
+do not compile or run will receive a maximum of 50%. Note that we
+have provided ample resources for you to verify that our view of your
+assignment is the same as your own: you will see the result of the
+test execution for your assignment when you submit it. 
+
+You can resubmit your assignment an unlimited number of times before
+the deadline. Note the late submission policy: assignments will be
+accepted up until 3 days past the deadline at a penalty of 10% per
+late day; after 3 days, no late assignments will be accepted, no
+exceptions.
+
+
+### Submitting on Canvas
+
+Please also submit your tar file on Canvas. The submission should
+include the three Go source files, and this is just for the GTAs'
+record.
+
+> **NOTE:** Canvas submission will remain open after the due date,
+> but we will not use Canvas submission timestamp. **Instead, we will
+> use the timestamp of your last Autolab submission for late penalty.**
+
 
 
 ## Acknowledgment
