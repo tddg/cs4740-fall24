@@ -23,6 +23,8 @@ In this lecture, you will:
 
 * [Linearizability paper](https://dl.acm.org/doi/10.1145/78969.78972) §1-2  
 
-### Quiz
+### Recordings
 
-<a href="https://forms.gle/u5Uj7kbKHWR9wgxr9">Quiz 2</a>
+* Lec9a: [video](https://edstem.org/us/courses/65103/discussion/5387639)
+
+
