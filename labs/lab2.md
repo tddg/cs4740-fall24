@@ -10,6 +10,12 @@ due_date: "Monday Oct 14, 11:59pm ET"
 
 # RPC and Key-Value Server
 
+## Resources
+
+You can find the video recording of Lab 2 tutorial
+[here](https://edstem.org/us/courses/65103/discussion/5397302). The
+slides are posted [here](/cs4740-fall24/assets/docs/lab2_tutorial.pdf).
+
 ## Introduction
 
 In this lab you will build a key/value server for a single machine
