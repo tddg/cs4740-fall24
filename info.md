@@ -56,7 +56,7 @@ change):
 * Lab 2: Key-value server (15%);
 * Lab 3a: Raft leader election (10%);
 * Lab 3b: Raft log replication (10%);
-* Lab 4: Serverless and containerization (15%).
+* ~~Lab 4: Serverless and containerization (15%).~~
 
 
 
