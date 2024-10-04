@@ -54,8 +54,8 @@ change):
 * Lab 0: Intro to Go: Familiarize yourself with Go (5%);
 * Lab 1: MapReduce (15%);
 * Lab 2: Key-value server (15%);
-* Lab 3a: Raft leader election (10%);
-* Lab 3b: Raft log replication (10%);
+* Lab 3a: Raft leader election (15%);
+* Lab 3b: Raft log replication (20%);
 * ~~Lab 4: Serverless and containerization (15%).~~
 
 
