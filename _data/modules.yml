@@ -61,7 +61,7 @@ midterm:
   name: Lec13b-Virtualization (containers)
   page: /lectures/lec12-virtualization
 13a:
-  name: Lec14-Cloud computing basics
+  name: Lec14-Cloud basics
   page: /lectures/lec13-cloud-computing-concepts
 14a:
   name: Lec15a-Serverless computing
