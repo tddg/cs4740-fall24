@@ -17,7 +17,7 @@ algorithm
 
 ### Lecture slides
 
-* Consistency and linearizability: [slides pdf](/cs4740-fall24/assets/docs/lec9-consistency-linearizability.pdf)
+* Paxos: [slides pdf](/cs4740-fall24/assets/docs/lec10-paxos.pdf)
 
 
 ### Readings
