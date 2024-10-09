@@ -26,4 +26,6 @@ algorithm
 * [Paxos explained from scratch paper](https://www.ux.uis.no/~meling/papers/2013-paxostutorial-opodis.pdf)
 
 
+### Quiz
 
+<a href="https://forms.gle/D2vrFuU5d5DyNFBG8">Quiz 3</a>

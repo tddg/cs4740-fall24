@@ -25,5 +25,3 @@ In this lecture, you will:
 
 * [Extended Raft paper](https://raft.github.io/raft.pdf)
 
-
-
