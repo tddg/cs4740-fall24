@@ -26,6 +26,12 @@ algorithm
 * [Paxos explained from scratch paper](https://www.ux.uis.no/~meling/papers/2013-paxostutorial-opodis.pdf)
 
 
+### Recordings
+
+* Lec10a: [video](https://edstem.org/us/courses/65103/discussion/5459552)
+* Lec10b: [video](https://edstem.org/us/courses/65103/discussion/5459558)
+
+
 ### Quiz
 
 <a href="https://forms.gle/D2vrFuU5d5DyNFBG8">Quiz 3</a>
