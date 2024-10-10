@@ -115,7 +115,7 @@ however, should result in just a single execution, so you will have
 to ensure that the re-send doesn't result in the server executing the
 request twice. 
 
-In this part, you should add code to `Clerk` to retry if doesn't
+In this part, you should add code to `Clerk` to retry if it doesn't
 receive a reply, and to `server.go` to filter duplicates if the
 operation requires it.  
 
