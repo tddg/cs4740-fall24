@@ -53,7 +53,7 @@ midtermReview:
   name: Midterm review
   page: /lectures/midterm-review
 midterm:
-  name: Midterm (<strong>time TBD</strong>)
+  name: Midterm (<strong>3:30pm - 4:45pm</strong>)
 12a:
   name: Lec12a-Virtualization (VMs)
   page: /lectures/lec12-virtualization
