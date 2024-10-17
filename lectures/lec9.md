@@ -16,7 +16,7 @@ In this lecture, you will:
 
 ### Lecture slides
 
-* Consistency and linearizability: [slides pdf](/cs4740-fall24/assets/docs/lec9-consistency-linearizability.pdf) [slides pptx](/cs4740-fall24/assets/docs/lec9-consistency-linearizability.pptx) [pptx+notes](/cs4740-fall24/assets/docs/lec9-consistency-linearizability+notes.pdf)
+* Consistency and linearizability: [slides pdf](/cs4740-fall24/assets/docs/lec9-consistency-linearizability.pdf), [slides pptx](/cs4740-fall24/assets/docs/lec9-consistency-linearizability.pptx), [pptx+notes](/cs4740-fall24/assets/docs/lec9-consistency-linearizability+notes.pdf)
 
 
 ### Readings
