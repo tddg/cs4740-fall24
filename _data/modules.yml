@@ -110,11 +110,11 @@ lab2:
 lab3a:
   name: Lab 3a
   type: deadline
-  page: /labs/lab3a
+  page: /labs/lab3
 lab3b:
   name: Lab 3b
   type: deadline
-  page: /labs/lab3b
+  page: /labs/lab3
 lab4:
   name: Lab 4
   type: deadline
