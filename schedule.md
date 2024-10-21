@@ -67,11 +67,11 @@ weeks:
     Wed:
       date: 2024/10/16
       content: midtermReview
-      note: "[Lab 3a](/cs4740-fall24/labs/lab3a) out"
   '9':
     Mon:
       date: 2024/10/21
       content: midterm
+      note: "[Lab 3a](/cs4740-fall24/labs/lab3a) out"
     Wed:
       date: 2024/10/23
       content: 11b
@@ -82,11 +82,11 @@ weeks:
     Wed:
       date: 2024/10/30
       content: 12b
-      note: "[Lab 3b](/cs4740-fall24/labs/lab3b) out"
   '11':
     Mon:
       date: 2024/11/04
       content: 13a
+      note: "[Lab 3b](/cs4740-fall24/labs/lab3b) out"
     Wed:
       date: 2024/11/06
       content: 14a
