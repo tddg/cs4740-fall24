@@ -15,13 +15,13 @@ deadlines:
     Wed:
       date: 2024/10/16 23:59pm
       content: lab2
-  '10':
-    Wed:
-      date: 2024/10/30 23:59pm
+  '11':
+    Mon:
+      date: 2024/11/04 23:59pm
       content: lab3a
-  '12':
-    Wed:
-      date: 2024/11/13 23:59pm
+  '13':
+    Mon:
+      date: 2024/11/18 23:59pm
       content: lab3b
 dates:
   firstMonday: 2024/08/26
