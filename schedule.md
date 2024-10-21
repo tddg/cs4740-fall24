@@ -71,7 +71,7 @@ weeks:
     Mon:
       date: 2024/10/21
       content: midterm
-      note: "[Lab 3a](/cs4740-fall24/labs/lab3a) out"
+      note: "[Lab 3a](/cs4740-fall24/labs/lab3#part-3a) out"
     Wed:
       date: 2024/10/23
       content: 11b
@@ -86,7 +86,7 @@ weeks:
     Mon:
       date: 2024/11/04
       content: 13a
-      note: "[Lab 3b](/cs4740-fall24/labs/lab3b) out"
+      note: "[Lab 3b](/cs4740-fall24/labs/lab3#part-3b) out"
     Wed:
       date: 2024/11/06
       content: 14a
