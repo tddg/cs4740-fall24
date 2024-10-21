@@ -11,7 +11,7 @@ due_date: "Monday Nov 04, 11:59pm ET (3A) and Monday Nov 18, 11:59pm ET (3B)"
 
 **Part 3A Due** Monday, 11/04, 11:59pm.
 
-**Part 3B Due** Monday, 11/08, 11:59pm.
+**Part 3B Due** Monday, 11/18, 11:59pm.
 
 
 
