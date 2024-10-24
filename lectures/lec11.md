@@ -28,6 +28,6 @@ In this lecture, you will:
 
 ### Recordings
 
-* [Lec11b](https://edstem.org/us/courses/65103/discussion/5459558)
+* [Lec11a](https://edstem.org/us/courses/65103/discussion/5459558) (starts at 1:05)
 * [Lec11b](https://edstem.org/us/courses/65103/discussion/5562990)
 
