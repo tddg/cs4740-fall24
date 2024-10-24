@@ -25,3 +25,9 @@ In this lecture, you will:
 
 * [Extended Raft paper](https://raft.github.io/raft.pdf)
 
+
+### Recordings
+
+* [Lec11b](https://edstem.org/us/courses/65103/discussion/5459558)
+* [Lec11b](https://edstem.org/us/courses/65103/discussion/5562990)
+
