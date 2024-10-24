@@ -16,7 +16,7 @@ papers as we go.
 
 [The Google File System](https://static.googleusercontent.com/media/research.google.com/en//archive/gfs-sosp2003.pdf) [ACM SOSP 2003]
 
-[Resilient Distributed Datasets: A Fault-Tolerant Abstraction for In-Memory Cluster Computing](https://www.usenix.org/conference/nsdi12/technical-sessions/presentation/zaharia) [USENIX NSDI 2012]
+[In Search of un Understandable Consensus Algorithm (Extended Version)](https://raft.github.io/raft.pdf) [USENIX ATC 2014]
 
 [Cloud Programming Simplified: A Berkeley View on Serverless Computing](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2019/EECS-2019-3.pdf) [Tech report]
 
