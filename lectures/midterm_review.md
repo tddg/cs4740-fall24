@@ -3,7 +3,7 @@ layout: module
 title: "Midterm Review"
 permalink: /lectures/midterm-review
 parent: Lectures
-nav_order: 11
+nav_order: 12
 
 ---
 
