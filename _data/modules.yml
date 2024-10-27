@@ -55,14 +55,11 @@ midtermReview:
 midterm:
   name: Midterm (<strong>3:30pm - 4:45pm</strong>)
 12a:
-  name: Lec12a-Virtualization (VMs)
-  page: /lectures/lec12-virtualization
-12b:
-  name: Lec12b-Virtualization (containers)
-  page: /lectures/lec12-virtualization
+  name: Lec12-Cloud computing fundamentals
+  page: /lectures/lec12-cloud-fundamentals
 13a:
-  name: Lec13-Cloud basics
-  page: /lectures/lec13-cloud-computing-concepts
+  name: Lec13-Virtualization
+  page: /lectures/lec13-virtualization
 14a:
   name: Lec14a-Serverless computing
   page: /lectures/lec14-serverless-computing
@@ -71,16 +68,19 @@ midterm:
   page: /lectures/lec14-serverless-computing
 15a:
   name: Lec15a-Amazon Dynamo I
-  page: /lectures/lec17-dynamo
+  page: /lectures/lec15-dynamo
 15b:
   name: Lec15b-Amazon Dynamo II
-  page: /lectures/lec17-dynamo
+  page: /lectures/lec15-dynamo
 16a:
   name: Lec16-Serverless function store
-  page: /lectures/lec18-serverless-store
+  page: /lectures/lec16-serverless-store
 17a:
-  name: Lec17-TBD
-  page: /lectures/lec18-tbd
+  name: Lec17-AWS S3
+  page: /lectures/lec17-s3
+18a:
+  name: Lec17-Guest lecture (AWS ML)
+  page: /lectures/lec17
 thanksGiving:
   name: Thanksgiving recess (no class)
   type: holiday

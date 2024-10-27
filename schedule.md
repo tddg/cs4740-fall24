@@ -81,33 +81,33 @@ weeks:
       content: 12a
     Wed:
       date: 2024/10/30
-      content: 12b
+      content: 13a
   '11':
     Mon:
       date: 2024/11/04
-      content: 13a
+      content: 14a
       note: "[Lab 3b](/cs4740-fall24/labs/lab3#part-3b) out"
     Wed:
       date: 2024/11/06
-      content: 14a
+      content: 14b
   '12':
     Mon:
       date: 2024/11/11
-      content: 14b
+      content: 15a
     Wed:
       date: 2024/11/13
-      content: 15a
+      content: 15b
   '13':
     Mon:
       date: 2024/11/18
-      content: 15b
+      content: 16a
     Wed:
       date: 2024/11/20
-      content: 16a
+      content: 17a
   '14':
     Mon:
       date: 2024/11/25
-      content: 17a
+      content: 18a
     Wed:
       date: 2024/11/27
       content: thanksGiving
