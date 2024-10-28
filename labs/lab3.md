@@ -17,7 +17,7 @@ due_date: "Monday Nov 04, 11:59pm ET (3A) and Monday Nov 18, 11:59pm ET (3B)"
 
 ## Resources
 
-* Lab 3 walk-through [[TBA](#)]
+* Lab 3 walk-through [[video](https://edstem.org/us/courses/65103/discussion/5576125)] [[slides](/cs4740-fall24/assets/docs/lab3_tutorial.pdf)]
 
 
 ## Introduction
