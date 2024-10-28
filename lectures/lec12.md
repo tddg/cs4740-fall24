@@ -3,7 +3,7 @@ layout: module
 title: "Lecture 12: Cloud Computing Fundamentals"
 permalink: /lectures/lec12-cloud-fundamentals
 parent: Lectures
-nav_order: 12
+nav_order: 13
 
 ---
 
