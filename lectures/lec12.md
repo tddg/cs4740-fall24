@@ -25,4 +25,8 @@ In this lecture, you will:
 * [A Berkeley view of Cloud Computing](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2009/EECS-2009-28.pdf)
 
 
+### Videos
+
+* Lec12a: [video](https://edstem.org/us/courses/65103/discussion/5601072)
+
 
