@@ -55,7 +55,10 @@ midtermReview:
 midterm:
   name: Midterm (<strong>3:30pm - 4:45pm</strong>)
 12a:
-  name: Lec12-Cloud computing fundamentals
+  name: Lec12a-Cloud computing fundamentals I
+  page: /lectures/lec12-cloud-fundamentals
+12b:
+  name: Lec12b-Cloud computing fundamentals II
   page: /lectures/lec12-cloud-fundamentals
 13a:
   name: Lec13-Virtualization
