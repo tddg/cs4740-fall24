@@ -20,6 +20,8 @@ papers as we go.
 
 [Cloud Programming Simplified: A Berkeley View on Serverless Computing](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2019/EECS-2019-3.pdf) [Tech report]
 
+[Xen and the Art of Virtualization](https://www.cl.cam.ac.uk/research/srg/netos/papers/2003-xensosp.pdf) [ACM SOSP 2003]
+
 [Occupy the Cloud: Distributed Computing for the 99%](https://arxiv.org/pdf/1702.04024.pdf) [ACM SoCC 2017]
 
 [Dynamo: Amazon’s Highly Available Key-value Store](https://www.amazon.science/publications/dynamo-amazons-highly-available-key-value-store) [ACM SOSP 2007]
