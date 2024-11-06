@@ -79,11 +79,11 @@ midterm:
   name: Lec16-Serverless function store
   page: /lectures/lec16-serverless-store
 17a:
+  name: Lec17-Guest lecture (Dr. Zhen Jia from AWS)
+  page: /lectures/lec17
+18a:
   name: Lec17-AWS S3
   page: /lectures/lec17-s3
-18a:
-  name: Lec17-Guest lecture (AWS ML)
-  page: /lectures/lec17
 thanksGiving:
   name: Thanksgiving recess (no class)
   type: holiday
