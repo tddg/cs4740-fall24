@@ -12,6 +12,7 @@ In this lecture, you will:
 
 * understand the motivation behind serverless computing
 * know the different generations of virtualization technology
+* learn how FaaS platforms work
 * know the limitations of today’s FaaS
 
 
