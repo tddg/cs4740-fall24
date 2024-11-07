@@ -27,6 +27,10 @@ In this lecture, you will:
 
 
 
+### Videos
+
+* Lec14a: [video](https://edstem.org/us/courses/65103/discussion/5661329)
+
 
 ### Quiz
 
