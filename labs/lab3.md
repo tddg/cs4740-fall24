@@ -389,7 +389,7 @@ exceptions.
 ### Sharing your repo with GTA
 
 Please also submit your tar file on Canvas. The submission should
-include the three Go source files, and this is just for the GTAs'
+include one Go source file, and this is just for the GTAs'
 record.
 
 > **NOTE:** Canvas submission will remain open after the due date,
@@ -537,7 +537,7 @@ exceptions.
 ### Sharing your repo with GTA
 
 Please also submit your tar file on Canvas. The submission should
-include the three Go source files, and this is just for the GTAs'
+include one Go source file, and this is just for the GTAs'
 record.
 
 > **NOTE:** Canvas submission will remain open after the due date,
