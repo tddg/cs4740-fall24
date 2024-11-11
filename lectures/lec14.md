@@ -21,7 +21,7 @@ In this lecture, you will:
 
 ### Lecture slides
 
-* Lec14a: Serverless computing: [slides pdf](/cs4740-fall24/assets/docs/lec14-serverless-computing.pdf)
+* Lec14a: Serverless computing: [slides pdf](/cs4740-fall24/assets/docs/lec14a-serverless-computing.pdf)
 * Lec14b: Serverless parallel computing: [slides pdf](/cs4740-fall24/assets/docs/lec14b-serverless-parallel-computing.pdf)
 
 
