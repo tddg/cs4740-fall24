@@ -15,10 +15,14 @@ In this lecture, you will:
 * learn how FaaS platforms work
 * know the limitations of today’s FaaS
 
+* understand the challenges of running stateful computations on FaaS
+* know how state-of-the-art serverless paralell computing frameworks work
+
 
 ### Lecture slides
 
-* Serverless computing: [slides pdf](/cs4740-fall24/assets/docs/lec14-serverless-computing.pdf)
+* Lec14a: Serverless computing: [slides pdf](/cs4740-fall24/assets/docs/lec14-serverless-computing.pdf)
+* Lec14b: Serverless parallel computing: [slide pdf](/cs4740-fall24/assets/docs/lec14b-serverless-parallel-computing.pdf)
 
 
 ### Readings
