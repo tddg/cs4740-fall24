@@ -23,7 +23,8 @@ In this lecture, you will:
 
 * Lec14a: Serverless computing: [slides pdf](/cs4740-fall24/assets/docs/lec14a-serverless-computing.pdf)
 * Lec14b: Serverless parallel computing: [slides pdf](/cs4740-fall24/assets/docs/lec14b-serverless-parallel-computing.pdf)
-* Lec14d: Serverless function storage: [slides pdf](/cs4740-fall24/assets/docs/lec14b-serverless-function-storage.pdf)
+* Lec14c: Serverless function scheduling: [SFS slides pdf](/cs4740-fall24/assets/docs/lec14c-serverless-function-scheduling-i.pdf), [ALPS slides pdf](/cs4740-fall24/assets/docs/lec14c-serverless-function-scheduling-ii.pdf)
+* Lec14d: Serverless function storage: [slides pdf](/cs4740-fall24/assets/docs/lec14d-serverless-function-storage.pdf)
 
 
 ### Readings
