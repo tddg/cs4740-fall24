@@ -20,8 +20,8 @@ deadlines:
       date: 2024/11/06 23:59pm
       content: lab3a
   '13':
-    Mon:
-      date: 2024/11/18 23:59pm
+    Wed:
+      date: 2024/11/20 23:59pm
       content: lab3b
 dates:
   firstMonday: 2024/08/26
