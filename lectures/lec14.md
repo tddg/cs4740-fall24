@@ -23,17 +23,21 @@ In this lecture, you will:
 
 * Lec14a: Serverless computing: [slides pdf](/cs4740-fall24/assets/docs/lec14a-serverless-computing.pdf)
 * Lec14b: Serverless parallel computing: [slides pdf](/cs4740-fall24/assets/docs/lec14b-serverless-parallel-computing.pdf)
+* Lec14d: Serverless function storage: [slides pdf](/cs4740-fall24/assets/docs/lec14b-serverless-function-storage.pdf)
 
 
 ### Readings
 
 * [A Berkeley view on serverless computing](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2019/EECS-2019-3.pdf)
+* [Wukong](https://dl.acm.org/doi/10.1145/3419111.3421286)
+* [InfiniCache](https://www.usenix.org/system/files/fast20-wang_ao.pdf)
 
 
 
 ### Videos
 
 * Lec14a: [video](https://edstem.org/us/courses/65103/discussion/5661329)
+
 
 
 ### Quiz

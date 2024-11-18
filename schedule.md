@@ -96,14 +96,14 @@ weeks:
       content: 14b
     Wed:
       date: 2024/11/13
-      content: 15a
+      content: 14c
   '13':
     Mon:
       date: 2024/11/18
-      content: 15b
+      content: 14d
     Wed:
       date: 2024/11/20
-      content: 16a
+      content: 14d
   '14':
     Mon:
       date: 2024/11/25

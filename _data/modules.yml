@@ -69,6 +69,12 @@ midterm:
 14b:
   name: Lec14b-Serverless data analytics
   page: /lectures/lec14-serverless-computing
+14c:
+  name: Lec14c-Serverless function scheduling
+  page: /lectures/lec14-serverless-computing
+14d:
+  name: Lec14b-Serverless function storage
+  page: /lectures/lec14-serverless-computing
 15a:
   name: Lec15a-Amazon Dynamo I
   page: /lectures/lec15-dynamo
