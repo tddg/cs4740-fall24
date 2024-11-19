@@ -38,6 +38,10 @@ In this lecture, you will:
 ### Videos
 
 * Lec14a: [video](https://edstem.org/us/courses/65103/discussion/5661329)
+* Lec14b: [video](https://edstem.org/us/courses/65103/discussion/5746106)
+* Lec14c: [video](https://edstem.org/us/courses/65103/discussion/5746124)
+* Lec14d-i: [video](https://edstem.org/us/courses/65103/discussion/5746140)
+* Lec14d-ii: [video](#)
 
 
 
