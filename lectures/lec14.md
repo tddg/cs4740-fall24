@@ -47,4 +47,5 @@ In this lecture, you will:
 
 ### Quiz
 
-<a href="https://forms.gle/DoY9RK4JeSR3SrtN6">Quiz 4</a>
+* <a href="https://forms.gle/DoY9RK4JeSR3SrtN6">Quiz 4</a>
+* <a href="https://forms.gle/Ds7EzrDPUiGVCoVU9">Quiz 5</a>
