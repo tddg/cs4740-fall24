@@ -85,7 +85,7 @@ midterm:
   name: Lec16-Serverless function store
   page: /lectures/lec16-serverless-store
 17a:
-  name: Lec15-Guest lecture: AWS AI (Dr. Zhen Jia from AWS)
+  name: Lec15-Guest lecture (AWS AI, by Dr. Zhen Jia from AWS)
   page: /lectures/lec15-aws-ai
 18a:
   name: Lec17-AWS S3
