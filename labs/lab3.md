@@ -4,14 +4,14 @@ title: "Lab 3"
 permalink: /labs/lab3
 parent: Labs
 nav_order: 4
-due_date: "Wednesday Nov 06, 11:59pm ET (3A) and Monday Nov 25, 11:59pm ET (3B)"
+due_date: "Wednesday Nov 06, 11:59pm ET (3A) and Tuesday Nov 26, 11:59pm ET (3B)"
 ---
 
 ## Important Dates and Other Stuff
 
 **Part 3A Due** ~~Monday, 11/04,~~ Wednesday, 11/06, 11:59pm.
 
-**Part 3B Due** ~~Wednesday, 11/20,~~ Monday, 11/25,  11:59pm.
+**Part 3B Due** ~~Wednesday, 11/20,~~ Tuesday, 11/26,  11:59pm.
 
 
 
