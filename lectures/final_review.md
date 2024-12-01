@@ -1,7 +1,7 @@
 ---
 layout: module
 title: "Final Review"
-permalink: /lectures/Final-review
+permalink: /lectures/final-review
 parent: Lectures
 nav_order: 16
 
