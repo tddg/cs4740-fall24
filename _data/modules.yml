@@ -97,7 +97,7 @@ finalReview:
   name: Final review
   page: /lectures/final-review
 finalExam:
-  name: Final exam (<strong>time TBD</strong>)
+  name: Final exam (<strong>2:00pm - 4:00pm</strong>)
 19a:
   name: Lec19a-Spark I
   page: /lectures/lec19-spark
