@@ -10,7 +10,7 @@ nav_order: 16
 
 ### Lecture slides
 
-* Finalreview: [slides pdf](/cs4740-fall24/assets/docs/final-review.pdf), [pdf+notes](#)
+* Final review: [slides pdf](/cs4740-fall24/assets/docs/final-review.pdf), [pdf+notes](#)
 
 
 
