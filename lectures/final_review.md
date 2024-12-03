@@ -3,7 +3,7 @@ layout: module
 title: "Final Review"
 permalink: /lectures/final-review
 parent: Lectures
-nav_order: 16
+nav_order: 17
 
 ---
 
