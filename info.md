@@ -128,11 +128,16 @@ Your grade will be calculated as follows:
 * 15% final exam
 
 
+
 ### Grading rules
 
 The final grade is computed according to the following rules:
 
-TBA
+* A+: >= 98%; A: \[93%, 98%); A-: \[88%, 93%)
+* B+: \[83%, 87%); B: \[80%, 83%); B-: \[80%, 83%)
+* C+: \[77%, 80%); C: \[73%, 77%); C-: \[70%, 73%)
+* D+: \[67%, 70%); D: \[63%, 67%); D-: \[60%, 63%)
+* F: < 60%
 
 
 
