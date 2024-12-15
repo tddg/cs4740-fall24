@@ -4,6 +4,6 @@ week: 16
 date: 2024-12-15
 ---
 
-* Thank you for a great semester!
+* Final letter grades are posted. Thank you all for a great semester!
 
 {: .fs-5 }
